@@ -5,7 +5,7 @@ https://github.com/rdo-management/python-rdomanager-oscplugin
 
 ## Usage
 
-    curl <magic url> | bash
+    curl https://raw.githubusercontent.com/aufi/rdo_lab_settler/master/rdosettler.sh | bash
 
 ## Steps
 
